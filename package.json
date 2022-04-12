@@ -1,0 +1,23 @@
+{
+  "name": "gh-org-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-mahoney/gh-org-stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan-mahoney/gh-org-stats/issues"
+  },
+  "homepage": "https://github.com/ryan-mahoney/gh-org-stats#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.12.0",
+    "dotenv": "^16.0.0"
+  }
+}
